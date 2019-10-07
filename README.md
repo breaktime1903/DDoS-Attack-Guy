@@ -4,3 +4,11 @@
 威力强大，可以炸蹭网的人
 
 前面attack-guy.py是不带多端口轮炸的，后面attack-guy-port.py才有。
+
+安装方法：(　´・◡・｀)
+git clone https://github.com/breaktime1903/DDoS-Attacker-Guy.git
+cd DDoS-Attacker-Guy
+chmod +x attack*
+./attack-guy.py或./attack-guy-port.py
+
+请自觉安装toilet软件包以获得最佳装X效果

@@ -6,6 +6,7 @@
 前面attack-guy.py是不带多端口轮炸的，后面attack-guy-port.py才有。
 
 安装方法：(　´・◡・｀)
+
 git clone https://github.com/breaktime1903/DDoS-Attacker-Guy.git
 
 cd DDoS-Attacker-Guy

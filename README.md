@@ -1,4 +1,4 @@
-# DDoS-Attacker-Guy
+# DDoS-Attack-Guy
 一个简易的，基于Python3的DDoS攻击器(仅供测试)
 
 威力强大，可以炸蹭网的人。
@@ -7,9 +7,9 @@
 
 安装方法：(　´・◡・｀)
 
-git clone https://github.com/breaktime1903/DDoS-Attacker-Guy.git
+git clone https://github.com/breaktime1903/DDoS-Attack-Guy.git
 
-cd DDoS-Attacker-Guy
+cd DDoS-Attack-Guy
 
 chmod +x attack*
 
